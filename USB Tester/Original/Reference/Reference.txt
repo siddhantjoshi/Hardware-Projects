@@ -1,0 +1,21 @@
+Author: Siddhnat Sunil Joshi
+Version: V1
+Date: 1 Jan 2021
+
+Website link:
+	->Images 
+		->https://pixabay.com/
+		->https://unsplash.com/
+		->https://www.123rf.com/
+
+	->Datasheet
+		->https://www.digikey.com/
+		->https://www.alldatasheet.com/
+		->https://www.atechpcb.com/data-sheet/
+
+	->Content and information
+		->https://www.tempoautomation.com/blog/what-pcb-copper-plating-process-is-the-best-choice-for-your-board/
+		->https://en.wikiversity.org/w/index.php?title=Talk:Electric_Circuit_Analysis&action=edit
+		->https://en.wikipedia.org/wiki/USB
+		->https://datasheet.octopart.com/5787834-1-TE-Connectivity-datasheet-536531.pdf
+		->https://www.instructables.com/USB-tester/
